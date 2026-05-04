@@ -1,38 +1,25 @@
-#  [name of repository goes here]
+#  1KGM
 
-Explain the purpose of your repository. Also mention the status of your repository. Are you currently working in the files or have they become stagnant with no work or future work planned?
+This repository is for experimenting with design for documents within a repository. This is a draft/test repository.
 
 ## Background
 
-Provide background to the need and future use case of the repository 
+Learning for private repositories that will have own Wikis
 
 
 ## How to use
 
-### Installation
 
-Provide any installation instructions that may be needed for the files in your repository
+### Installation
 
 
 ### Usage
 
-How to use these documents
-
-
 
 ## How to get help
 
-Individuals who will be supporting this Repo and how to request help. Are they open to email? Should people file issues (highly recommended)?
-
 
 ## How to contribute
-
-State if you are open to contributions. Use one of the following:
-
-The maintainers are not open to outside contributions. Please file issues if you feel the modifications to this repository are needed. (Need help filing an issue? Follow these [instructions](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository).)
-
-The maintainers gladly welcome outside contributions. Please create a new branch and submit a pull request to contribute. 
-
 
 
 ## Acknowledgments
