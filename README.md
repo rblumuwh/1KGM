@@ -1,6 +1,6 @@
 #  1KGM
 
-I am cahning This repository is for experimenting with design for documents within a repository. This is a draft/test repository.
+This repository is for experimenting with design for documents within a repository. This is a draft/test repository.
 
 ## Background
 
