@@ -12,3 +12,6 @@ If the Developer Checklist cannot be adhered to, do not open this pull request. 
 - [ ] The object DDL file(s) are in the correct source schema and object type folder
 - [ ] The object DDL file(s) are named with the expected convention Schema_Name.Object_Name.sql 
 - [ ] The object DDL files(s) for Views, Stored Procedures, and Functions include basic comments and/or header/log
+
+# Developer Additional Details 
+<! --- Provde any details here --->
