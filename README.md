@@ -8,7 +8,7 @@ Learning for private repositories that will have own Wikis
 
 
 ## How to use
-
+x
 
 ### Installation
 
